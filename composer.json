@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Lee Min Xi",
+        "email": "21022186@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
